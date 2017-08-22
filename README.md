@@ -1,4 +1,4 @@
-This folder contains files for P0: Analyze Bay Area Bike Share Data.
+This folder contains files for P1: Analyze Bay Area Bike Share Data completed as a part of Data Analyst Nanodegree in Udacity.
 
 Bay\_Area\_Bike\_Share\_Analysis.ipynb - Main project file.
 
